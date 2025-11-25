@@ -3,3 +3,19 @@
 <h1>DINO-Tok: Adapting DINO for Visual Tokenizers</h1>
 
 
+## 🗄️Demos
+- 🔥 Qualitative reconstruction images with $16$ x downsampling on $2560$ x $1440$ UHDBench dataset. 
+
+<image src="./assets/qual_recon.png"/>
+
+- 🔥 Qualitative class-to-image generation of Imagenet. The classes are dog(Golden Retriever and Husky), cliff, and bald eagle.
+
+<image src="./assets/qual_gen.png"/>
+
+- 🔥 Reconstruction evaluation on 256×256 ImageNet benchmark. 
+
+<image src="./assets/recon_tab_1.jpg"/>
+
+- 🔥 Zero-shot reconstruction evaluation with a downsample ratio of 16 on 512×512 and 2560x1440 datasets.
+
+<image src="./assets/recon_tab_2.jpg"/>
